@@ -1,4 +1,14 @@
-### Hi there 👋
+Hey, I'm Gavin.
+
+I'm a product designer currently helping people lead healthier lives through [Fitbod](https://apps.apple.com/us/app/fitbod-workout-fitness-plans/id1041517543).
+On the side I create iOS and macOS app icons for companies and individuals. 
+
+[Email](mailto:gavin@nelson.co)
+
+[Website](https://nelson.co)
+
+[Twitter](https://twitter.com/gavmn)
+
 
 <!--
 **gavinmn/gavinmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
