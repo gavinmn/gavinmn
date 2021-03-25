@@ -1,4 +1,4 @@
-Hey, I'm Gavin.
+Hi, I'm Gavin.
 
 I'm a product designer currently helping people lead healthier lives through [Fitbod](https://apps.apple.com/us/app/fitbod-workout-fitness-plans/id1041517543).
 On the side I create iOS and macOS app icons for companies and individuals. 
