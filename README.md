@@ -1,6 +1,9 @@
 Hi, I'm Gavin.
 
-I'm a product designer currently helping people lead healthier lives through [Fitbod](https://apps.apple.com/us/app/fitbod-workout-fitness-plans/id1041517543).
+I'm a product designer working on the mobile apps at [GitHub](https://github.com). 
+
+Previously I was helping people lead healthier lives through [Fitbod](https://apps.apple.com/us/app/fitbod-workout-fitness-plans/id1041517543).
+
 On the side I create iOS and macOS app icons for companies and individuals. 
 
 Feel free to send me an [email](mailto:gavin@nelson.co), find me on [twitter](https://twitter.com/gavmn), or check out some icons and projects on my [website](https://nelson.co).
