@@ -1,6 +1,6 @@
 Hi, I'm Gavin.
 
-I'm a product designer working on the mobile apps at [GitHub](https://github.com). Previously I was helping people lead healthier lives through [Fitbod](https://apps.apple.com/us/app/fitbod-workout-fitness-plans/id1041517543).
+I'm a product designer working on the mobile apps at [GitHub](https://github.com).
 
 On the side I create iOS and macOS app icons for companies and individuals. 
 
